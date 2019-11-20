@@ -1,0 +1,5 @@
+environment.py
+	150 - 168 dimensional unsqueezing
+
+network.pt
+	339 get_inputs seems to change size and get rid of time value.
