@@ -1,6 +1,4 @@
 # README
-Classical Control RL using evolved SNNs
-
 This project implements the MAP-Elites algorithm to evolve spiking neural networks to perform on classic reinforcement learning control tasks such as pole cart and mountain car and examine the network characteristics of the best performers. 
 
 ## MAP-Elites
